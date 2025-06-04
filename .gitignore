@@ -5,7 +5,6 @@
 /.vs
 /build
 /out
-/include
 /lib
 /libraries
-CMakeLists.txt
+#CMakeLists.txt
