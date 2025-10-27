@@ -4,3 +4,4 @@ To compile, use the CMakeLists.txt file from this repo: https://github.com/meemk
 Use W/A/S/D to move camera, use </, and >/. keys to cycle through how the project is rendered.
 Use 1/2/3 to flip the render on the X/Y/Z axes respectively.
 Use space to show the test render, which is a sphere.
+Download the code from the reupload folder, GitHub bugged out on my PC and I didn't know what to do.
